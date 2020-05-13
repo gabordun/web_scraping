@@ -1,4 +1,4 @@
-# web_scraping
+# A web scraping project with beautiful soup package
 A web scraping project with Python (i.e. beautiful soap) to scan the world's most visited websites for certain keywords, to see how 'hot' are some topics.
 
 The aim is to count the unique mentions of Coronavirus (via a pre-defined list of keywords) on the world's most popular websites.
