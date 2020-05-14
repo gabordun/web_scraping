@@ -14,3 +14,5 @@ Then, according to a pre-defined 'keywords' list, the script counts the number o
 The output table contains the name & the URL of the corresponding website, the number of the keywords' total appearances and a proxy for the size of the site (the last in order to get some comparable measure, it counts the 'a' fields inside the html body of the corresponding website).
 
 Finally, in the last section the output table is saved (optionally on Google Drive). After that, the saved file is imported into Tableau to create a visualization of the results.
+
+You can find the visualization here: https://public.tableau.com/profile/gabor.dunai#!/vizhome/AppearancesofCOVIDkeywordsonnewswebsites-astory/Story1
